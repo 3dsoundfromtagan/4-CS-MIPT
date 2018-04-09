@@ -2,3 +2,4 @@
 /SFMLDEMO1/cmake_modules
 /SFMLDEMO1/.idea
 /*.o
+/sfmltest/main.o
