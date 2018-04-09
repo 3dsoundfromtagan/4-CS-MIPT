@@ -1,3 +1,3 @@
 *.o
 ./*
-sfmltest/main.o
+/sfmltest/main.o
